@@ -4,6 +4,9 @@
 This document provides details on testing various services after running the `docker-compose` file. These services include User, Product, Order, and Gateway Services. Each service has its own endpoints for testing purposes.
 
 ---
+## Clone Your Project
+git clone https://github.com/Adish786/Microservices-Task-Submission.git
+cd Microservices-Task-Submission
 
 ## Services and Endpoints
 
